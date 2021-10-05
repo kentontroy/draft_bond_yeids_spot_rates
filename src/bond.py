@@ -1,3 +1,4 @@
+
 class	Bond:
 		def	__init__(self,	F,	T,	C,	M):
 				self.F	=	F
